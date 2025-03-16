@@ -3,4 +3,4 @@
 - 🌱 Currently exploring Full-Stack Development & Machine Learning  
 - 🎯 My goal: Have a peaceful sleep 😴   
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomaschristiankuntolukito&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Norpele&show_icons=true&theme=dark)
