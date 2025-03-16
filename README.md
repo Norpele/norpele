@@ -4,3 +4,4 @@
 - 🎯 My goal: Have a peaceful sleep 😴   
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Norpele&show_icons=true&theme=dark)
+[![Contributors](https://contrib.rocks/image?repo=Norpele/repository)](https://github.com/Norpele/repository/graphs/contributors)
